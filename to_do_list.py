@@ -64,3 +64,7 @@ def main():
                 print(i, end='')
                 time.sleep(0.05)
             time.sleep(1)
+
+
+if __name__ == "__main__":
+    main()
